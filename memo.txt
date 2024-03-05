@@ -1,3 +1,3 @@
 動かすには
 yarn add @slack/bolt dotenv
-必須git 
+必須
